@@ -13,6 +13,10 @@ public class Main {
 //    {System.out.println("Итерация цикла " + a);}
 
         //Задача 2
+        for (int i = 5; i <= 31; i=i+7)
+
+        {System.out.println("Сегодня пятница - отчетный день " + i); continue;}
+
 
 
 
