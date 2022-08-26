@@ -15,7 +15,10 @@ public class Main {
         //Задача 2
         for (int i = 5; i <= 31; i=i+7)
 
-        {System.out.println("Сегодня пятница - отчетный день " + i); continue;}
+        {System.out.println("Сегодня пятница " + i +  " отчетный день" ); continue;}
+
+        //Задача 3
+
 
 
 
